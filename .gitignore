@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+.data-app-offline/
+.openai/
+__pycache__/
+*.pyc
+.env*
+qa-output/

@@ -1,0 +1,65 @@
+name: Actualizar y publicar observatorio
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '20 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: observatorio-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .cache/sources
+          key: airport-sources-${{ github.run_id }}
+          restore-keys: airport-sources-
+      - run: pip install -r pipeline/requirements.txt
+      - name: Comprobar nuevas publicaciones
+        run: python -u pipeline/refresh.py
+      - name: Validar cifras, cobertura y cálculos
+        run: node pipeline/check-data.mjs
+      - run: npm ci
+      - name: Compilar web
+        run: npm run build
+      - name: Guardar histórico validado
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar estadísticas oficiales [skip ci]'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4

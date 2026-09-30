@@ -1,0 +1,13 @@
+export const metricNames={passengers:'Pasajeros',operations:'Operaciones',cargoKg:'Carga (kg)'};
+export const monthNames=['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+export const formatNumber=v=>v==null?'Sin dato':new Intl.NumberFormat('es-ES',{maximumFractionDigits:0}).format(v);
+export const formatCompact=v=>v==null?'—':new Intl.NumberFormat('es-ES',{notation:'compact',maximumFractionDigits:2}).format(v);
+export const formatMonth=m=>m?new Intl.DateTimeFormat('es-ES',{month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(m+'-01T00:00:00Z')):'Sin dato';
+export function shiftMonth(m,n){const[y,mo]=m.split('-').map(Number);return new Date(Date.UTC(y,mo-1+n,1)).toISOString().slice(0,7);}
+export function commonMonths(rows,codes){return [...new Set(rows.map(r=>r.month))].sort().filter(m=>codes.every(c=>rows.some(r=>r.month===m&&r.airport===c)));}
+export function delta(a,b){return a==null||b==null||b===0?null:(a/b-1)*100;}
+export function summarize(rows,codes,month,metric){return codes.map(c=>{const a=rows.find(r=>r.airport===c&&r.month===month),b=rows.find(r=>r.airport===c&&r.month===shiftMonth(month,-12));return {airport:c,value:a?.[metric]??null,previous:b?.[metric]??null,change:delta(a?.[metric],b?.[metric])};});}
+export function sumComplete(rows,codes,month,metric){const rs=rows.filter(r=>r.month===month&&codes.includes(r.airport));return rs.length===codes.length&&rs.every(r=>r[metric]!=null)?rs.reduce((a,r)=>a+r[metric],0):null;}
+export function seriesRows(rows,codes,start,end,metric,indexed,name){const months=[];for(let m=start;m<=end;m=shiftMonth(m,1))months.push(m);return months.flatMap(m=>codes.map(c=>{const r=rows.find(r=>r.airport===c&&r.month===m),base=rows.find(r=>r.airport===c&&r.month===start)?.[metric];return {Mes:m+'-01',Aeropuerto:name(c),[indexed?'Índice (base 100)':metricNames[metric]]:r?.[metric]==null?null:indexed?(base>0?r[metric]/base*100:null):r[metric]};}));}
+export function annualRows(rows,codes,cutoff,metric,name){return [...new Set(rows.map(r=>r.month.slice(0,4)))].sort().flatMap(year=>codes.map(c=>{const rs=rows.filter(r=>r.airport===c&&r.month.startsWith(year)&&Number(r.month.slice(5))<=cutoff);return {Año:year,Aeropuerto:name(c),[metricNames[metric]]:rs.length===cutoff&&rs.every(r=>r[metric]!=null)?rs.reduce((a,r)=>a+r[metric],0):null};}));}
+export function exportCsv(rows,name){if(!rows.length)return;const keys=Object.keys(rows[0]),q=v=>'"'+String(v??'').replaceAll('"','""')+'"';const b=new Blob(['\ufeff'+[keys.map(q).join(';'),...rows.map(r=>keys.map(k=>q(r[k])).join(';'))].join('\r\n')],{type:'text/csv;charset=utf-8;'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000);}
