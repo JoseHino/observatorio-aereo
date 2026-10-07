@@ -4,7 +4,7 @@
   "title": "Observatorio aéreo",
   "status": "reviewed",
   "buildStatus": "complete",
-  "generatedAt": "2026-10-06T14:16:38.416788+00:00",
+  "generatedAt": "2026-10-07T14:35:43.037319+00:00",
   "filters": [],
   "airports": [
     {
@@ -63,7 +63,7 @@
     }
   ],
   "refresh": {
-    "checkedAt": "2026-10-06T14:16:38.416788+00:00",
+    "checkedAt": "2026-10-07T14:35:43.037319+00:00",
     "warnings": [
       "CAA 2026-08: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/august-2026/",
       "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/"
@@ -1338,7 +1338,7 @@
           "arrivals": 10465,
           "departures": 11851,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1350,7 +1350,7 @@
           "arrivals": 13094,
           "departures": 13201,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1362,7 +1362,7 @@
           "arrivals": 15912,
           "departures": 15003,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1374,7 +1374,7 @@
           "arrivals": 17947,
           "departures": 18370,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1386,7 +1386,7 @@
           "arrivals": 19973,
           "departures": 18681,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1398,7 +1398,7 @@
           "arrivals": 21186,
           "departures": 21414,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1410,7 +1410,7 @@
           "arrivals": 23860,
           "departures": 22230,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1422,7 +1422,7 @@
           "arrivals": 23191,
           "departures": 24278,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1434,8 +1434,8 @@
           "arrivals": 20764,
           "departures": 21161,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/air-traffic-statistics/2025-air-traffic-statistics.pdf",
-          "reportYear": 2025
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
+          "reportYear": 2026
         },
         {
           "airport": "GIB",
@@ -1482,7 +1482,7 @@
           "arrivals": 10243,
           "departures": 11817,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1494,7 +1494,7 @@
           "arrivals": 12807,
           "departures": 12472,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1506,7 +1506,7 @@
           "arrivals": 18442,
           "departures": 17043,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1518,7 +1518,7 @@
           "arrivals": 18868,
           "departures": 19629,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1530,7 +1530,7 @@
           "arrivals": 21263,
           "departures": 20519,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1542,7 +1542,7 @@
           "arrivals": 19387,
           "departures": 19882,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1554,7 +1554,7 @@
           "arrivals": 21668,
           "departures": 20798,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -1566,7 +1566,19 @@
           "arrivals": 21121,
           "departures": 22185,
           "provider": "Gibraltar Airport",
-          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
+          "reportYear": 2026
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "passengers": 38966,
+          "operations": 336,
+          "cargoKg": 2987,
+          "arrivals": 19319,
+          "departures": 19647,
+          "provider": "Gibraltar Airport",
+          "sourceUrl": "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "reportYear": 2026
         },
         {
@@ -4477,13 +4489,13 @@
       "source": {
         "label": "Aena y Gibraltar Airport",
         "provider": "Aena y Gibraltar Airport",
-        "executedAt": "2026-10-06T14:16:38.416788+00:00",
+        "executedAt": "2026-10-07T14:35:43.037319+00:00",
         "coverage": {
           "startDate": "2023-01-01",
-          "endDate": "2026-08-01"
+          "endDate": "2026-09-01"
         },
         "files": [
-          "https://gibraltarairport.gi/uploads/GIB_to_AUG26_Cor09.09.pdf",
+          "https://gibraltarairport.gi/uploads/GIB_to_ SEP26.pdf",
           "https://gibraltarairport.gi/uploads/air-traffic-statistics/2024-air-traffic-statistics GIB.pdf",
           "https://gibraltarairport.gi/uploads/air-traffic-statistics/2025-air-traffic-statistics.pdf",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576869791639&ssbinary=true",
@@ -68901,7 +68913,7 @@
       "source": {
         "label": "Eurostat · países socios europeos",
         "provider": "Eurostat · países socios europeos",
-        "executedAt": "2026-10-06T14:16:38.416788+00:00",
+        "executedAt": "2026-10-07T14:35:43.037319+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -73320,7 +73332,7 @@
       "source": {
         "label": "Eurostat · nacional e internacional",
         "provider": "Eurostat · nacional e internacional",
-        "executedAt": "2026-10-06T14:16:38.416788+00:00",
+        "executedAt": "2026-10-07T14:35:43.037319+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -95501,7 +95513,7 @@
       "source": {
         "label": "UK Civil Aviation Authority · tabla 12.1",
         "provider": "UK Civil Aviation Authority · tabla 12.1",
-        "executedAt": "2026-10-06T14:16:38.416788+00:00",
+        "executedAt": "2026-10-07T14:35:43.037319+00:00",
         "coverage": {
           "startDate": "2024-01-01",
           "endDate": "2026-07-01"
