@@ -4,7 +4,7 @@
   "title": "Observatorio aéreo",
   "status": "reviewed",
   "buildStatus": "complete",
-  "generatedAt": "2026-10-09T14:26:07.966691+00:00",
+  "generatedAt": "2026-10-10T13:50:09.609921+00:00",
   "filters": [],
   "airports": [
     {
@@ -63,10 +63,10 @@
     }
   ],
   "refresh": {
-    "checkedAt": "2026-10-09T14:26:07.966691+00:00",
+    "checkedAt": "2026-10-10T13:50:09.609921+00:00",
     "warnings": [
-      "CAA 2026-08: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/august-2026/",
-      "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/"
+      "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/",
+      "CAA 2026-08: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/august-2026/"
     ],
     "cadence": "Diaria · 07:20 UTC"
   },
@@ -4489,7 +4489,7 @@
       "source": {
         "label": "Aena y Gibraltar Airport",
         "provider": "Aena y Gibraltar Airport",
-        "executedAt": "2026-10-09T14:26:07.966691+00:00",
+        "executedAt": "2026-10-10T13:50:09.609921+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-09-01"
@@ -68913,7 +68913,7 @@
       "source": {
         "label": "Eurostat · países socios europeos",
         "provider": "Eurostat · países socios europeos",
-        "executedAt": "2026-10-09T14:26:07.966691+00:00",
+        "executedAt": "2026-10-10T13:50:09.609921+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -73332,7 +73332,7 @@
       "source": {
         "label": "Eurostat · nacional e internacional",
         "provider": "Eurostat · nacional e internacional",
-        "executedAt": "2026-10-09T14:26:07.966691+00:00",
+        "executedAt": "2026-10-10T13:50:09.609921+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -95513,7 +95513,7 @@
       "source": {
         "label": "UK Civil Aviation Authority · tabla 12.1",
         "provider": "UK Civil Aviation Authority · tabla 12.1",
-        "executedAt": "2026-10-09T14:26:07.966691+00:00",
+        "executedAt": "2026-10-10T13:50:09.609921+00:00",
         "coverage": {
           "startDate": "2024-01-01",
           "endDate": "2026-07-01"
