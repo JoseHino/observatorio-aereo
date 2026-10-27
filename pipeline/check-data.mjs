@@ -13,7 +13,8 @@ for(const c of codes)assert(t.some(r=>r.airport===c),`Missing ${c}`);
 for(const r of t.filter(r=>r.airport==='GIB'))assert.equal(r.arrivals+r.departures,r.passengers);
 const gib=t.filter(r=>r.airport==='GIB'&&r.month.startsWith('2025'));
 assert.equal(gib.length,12);assert.equal(gib.reduce((a,r)=>a+r.passengers,0),437172,'Official Gibraltar 2025 total');
-assert.equal(t.find(r=>r.airport==='MAD'&&r.month==='2025-01').passengers,5198143,'Official Aena Jan 2025');
+// Aena revisa los provisionales al publicar los definitivos (5.198.143 → 5.198.197): se admite un 0,1 % de margen.
+assert(Math.abs(t.find(r=>r.airport==='MAD'&&r.month==='2025-01').passengers/5198197-1)<0.001,'Official Aena Jan 2025');
 assert.equal(shiftMonth('2025-01',-1),'2024-12');assert.equal(delta(10,0),null);assert.equal(delta(null,10),null);assert.equal(delta(110,100).toFixed(1),'10.0');
 const fixture=[{airport:'A',month:'2025-01',passengers:5},{airport:'B',month:'2025-02',passengers:10}];
 assert.deepEqual(commonMonths(fixture,['A','B']),[]);assert.equal(sumComplete(fixture,['A','B'],'2025-01','passengers'),null);assert.equal(annualRows(fixture,['A'],2,'passengers',x=>x)[0].Pasajeros,null);

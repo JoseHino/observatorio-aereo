@@ -4,7 +4,7 @@
   "title": "Observatorio aéreo",
   "status": "reviewed",
   "buildStatus": "complete",
-  "generatedAt": "2026-10-12T16:48:49.601207+00:00",
+  "generatedAt": "2026-10-27T13:32:18.890983+00:00",
   "filters": [],
   "airports": [
     {
@@ -63,10 +63,9 @@
     }
   ],
   "refresh": {
-    "checkedAt": "2026-10-12T16:48:49.601207+00:00",
+    "checkedAt": "2026-10-27T13:32:18.890983+00:00",
     "warnings": [
-      "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/",
-      "CAA 2026-08: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/august-2026/"
+      "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/"
     ],
     "cadence": "Diaria · 07:20 UTC"
   },
@@ -340,134 +339,134 @@
         {
           "airport": "AGP",
           "month": "2025-01",
-          "passengers": 1369837,
+          "passengers": 1369854,
           "operations": 10423,
           "cargoKg": 302868,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-02",
-          "passengers": 1522258,
-          "operations": 10931,
+          "passengers": 1522401,
+          "operations": 10934,
           "cargoKg": 321013,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-03",
-          "passengers": 1897983,
-          "operations": 13489,
+          "passengers": 1897929,
+          "operations": 13490,
           "cargoKg": 306735,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-04",
-          "passengers": 2387538,
-          "operations": 16569,
+          "passengers": 2387487,
+          "operations": 16572,
           "cargoKg": 240799,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-05",
-          "passengers": 2584681,
-          "operations": 17977,
+          "passengers": 2584634,
+          "operations": 17979,
           "cargoKg": 347334,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-06",
-          "passengers": 2632385,
-          "operations": 18045,
+          "passengers": 2632380,
+          "operations": 18046,
           "cargoKg": 328940,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-07",
-          "passengers": 2866642,
-          "operations": 19814,
+          "passengers": 2866644,
+          "operations": 19820,
           "cargoKg": 441462,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-08",
-          "passengers": 2862372,
-          "operations": 19286,
+          "passengers": 2862342,
+          "operations": 19292,
           "cargoKg": 644711,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-09",
-          "passengers": 2626561,
-          "operations": 17656,
+          "passengers": 2626559,
+          "operations": 17660,
           "cargoKg": 574511,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-10",
-          "passengers": 2576610,
-          "operations": 17417,
+          "passengers": 2576731,
+          "operations": 17420,
           "cargoKg": 493986,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-11",
-          "passengers": 1752414,
+          "passengers": 1752410,
           "operations": 12726,
           "cargoKg": 342133,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "AGP",
           "month": "2025-12",
           "passengers": 1681268,
-          "operations": 12657,
+          "operations": 12659,
           "cargoKg": 317783,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "AGP",
@@ -556,6 +555,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "passengers": 2805764,
+          "operations": 18766,
+          "cargoKg": 532303,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "BCN",
@@ -824,134 +834,134 @@
         {
           "airport": "BCN",
           "month": "2025-01",
-          "passengers": 3695529,
+          "passengers": 3695282,
           "operations": 24585,
-          "cargoKg": 13399371,
+          "cargoKg": 13363539,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-02",
-          "passengers": 3754942,
+          "passengers": 3754681,
           "operations": 24417,
-          "cargoKg": 14316725,
+          "cargoKg": 14310873,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-03",
-          "passengers": 4356270,
+          "passengers": 4356259,
           "operations": 28411,
           "cargoKg": 16358757,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-04",
-          "passengers": 4903849,
+          "passengers": 4903834,
           "operations": 30839,
           "cargoKg": 15729502,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-05",
-          "passengers": 5176437,
-          "operations": 33131,
+          "passengers": 5176266,
+          "operations": 33132,
           "cargoKg": 17456860,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-06",
-          "passengers": 5296405,
-          "operations": 32710,
+          "passengers": 5296213,
+          "operations": 32709,
           "cargoKg": 16107343,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-07",
-          "passengers": 5540010,
+          "passengers": 5540006,
           "operations": 33660,
-          "cargoKg": 18906493,
+          "cargoKg": 18906274,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-08",
-          "passengers": 5673319,
+          "passengers": 5673185,
           "operations": 33296,
           "cargoKg": 16209687,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-09",
-          "passengers": 5279003,
-          "operations": 32402,
+          "passengers": 5279169,
+          "operations": 32403,
           "cargoKg": 17435917,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-10",
-          "passengers": 5243506,
-          "operations": 32802,
+          "passengers": 5243289,
+          "operations": 32803,
           "cargoKg": 19130539,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-11",
-          "passengers": 4255339,
+          "passengers": 4255151,
           "operations": 26753,
           "cargoKg": 18348635,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "BCN",
           "month": "2025-12",
-          "passengers": 4308427,
+          "passengers": 4308655,
           "operations": 27780,
-          "cargoKg": 17341148,
+          "cargoKg": 17338786,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "BCN",
@@ -1040,6 +1050,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "passengers": 5417608,
+          "operations": 33386,
+          "cargoKg": 18633763,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "GIB",
@@ -1854,7 +1875,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1865,7 +1886,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1876,7 +1897,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1887,40 +1908,40 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "GRX",
           "month": "2025-05",
-          "operations": 2152,
+          "operations": 2153,
           "passengers": 96862,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "GRX",
           "month": "2025-06",
-          "operations": 2388,
+          "operations": 2390,
           "passengers": 94168,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "GRX",
           "month": "2025-07",
           "operations": 2403,
-          "passengers": 86893,
+          "passengers": 86892,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1931,7 +1952,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1942,7 +1963,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1953,7 +1974,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -1964,18 +1985,18 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "GRX",
           "month": "2025-12",
           "passengers": 105759,
           "operations": 1728,
-          "cargoKg": 5,
+          "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "GRX",
@@ -2064,6 +2085,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-09",
+          "operations": 2436,
+          "passengers": 94982,
+          "cargoKg": 0,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "LEI",
@@ -2333,34 +2365,34 @@
           "airport": "LEI",
           "month": "2025-01",
           "passengers": 31669,
-          "cargoKg": 37,
           "operations": 898,
+          "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-02",
-          "passengers": 40888,
+          "passengers": 40994,
           "operations": 994,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-03",
-          "passengers": 55087,
+          "passengers": 55244,
           "operations": 1019,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "LEI",
@@ -2371,40 +2403,40 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-05",
-          "passengers": 77735,
-          "cargoKg": 45,
+          "passengers": 77732,
           "operations": 1346,
+          "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-06",
-          "operations": 1490,
+          "operations": 1491,
           "passengers": 87882,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-07",
           "passengers": 96374,
-          "operations": 1549,
+          "operations": 1550,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "LEI",
@@ -2415,18 +2447,18 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-09",
-          "passengers": 87505,
-          "operations": 1243,
+          "passengers": 87503,
+          "operations": 1242,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "LEI",
@@ -2437,29 +2469,29 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-11",
           "passengers": 44879,
-          "operations": 1095,
+          "operations": 1096,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "LEI",
           "month": "2025-12",
-          "passengers": 43301,
-          "operations": 844,
+          "passengers": 43303,
           "cargoKg": 0,
+          "operations": 844,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "LEI",
@@ -2548,6 +2580,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "passengers": 105225,
+          "operations": 1519,
+          "cargoKg": 0,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "MAD",
@@ -2816,134 +2859,134 @@
         {
           "airport": "MAD",
           "month": "2025-01",
-          "passengers": 5198143,
+          "passengers": 5198197,
           "operations": 33811,
           "cargoKg": 58850296,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-02",
-          "passengers": 4820733,
+          "passengers": 4820617,
           "operations": 31493,
           "cargoKg": 61306350,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-03",
-          "passengers": 5503333,
+          "passengers": 5503337,
           "operations": 35544,
           "cargoKg": 70918572,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-04",
-          "passengers": 5594457,
+          "passengers": 5594433,
           "operations": 35133,
           "cargoKg": 65608081,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-05",
-          "passengers": 5734394,
-          "operations": 36641,
+          "passengers": 5734337,
+          "operations": 36642,
           "cargoKg": 69335038,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-06",
-          "passengers": 5825078,
+          "passengers": 5825218,
           "operations": 36295,
-          "cargoKg": 68705346,
+          "cargoKg": 68704324,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-07",
-          "passengers": 6170130,
-          "operations": 37910,
+          "passengers": 6170309,
+          "operations": 37911,
           "cargoKg": 69923231,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-08",
-          "passengers": 6243704,
+          "passengers": 6243625,
           "operations": 37189,
-          "cargoKg": 67802046,
+          "cargoKg": 67835791,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-09",
-          "passengers": 5922644,
+          "passengers": 5922415,
           "operations": 36639,
           "cargoKg": 71858528,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-10",
-          "passengers": 6034971,
+          "passengers": 6034969,
           "operations": 38108,
           "cargoKg": 80497515,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-11",
-          "passengers": 5494827,
+          "passengers": 5494831,
           "operations": 35209,
           "cargoKg": 79077820,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "MAD",
           "month": "2025-12",
-          "passengers": 5636640,
+          "passengers": 5636639,
           "operations": 36644,
           "cargoKg": 76448373,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "MAD",
@@ -3032,6 +3075,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "passengers": 6313660,
+          "operations": 39773,
+          "cargoKg": 62416513,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "ODB",
@@ -3300,90 +3354,90 @@
         {
           "airport": "ODB",
           "month": "2025-01",
-          "operations": 1209,
+          "operations": 1207,
           "cargoKg": 0,
-          "passengers": 322,
+          "passengers": 318,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-02",
-          "operations": 1467,
+          "operations": 1468,
           "cargoKg": 0,
-          "passengers": 486,
+          "passengers": 484,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-03",
-          "operations": 1249,
+          "operations": 1250,
           "cargoKg": 0,
-          "passengers": 440,
+          "passengers": 437,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-04",
-          "operations": 1323,
+          "operations": 1322,
           "cargoKg": 0,
-          "passengers": 2340,
+          "passengers": 2338,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-05",
-          "operations": 1036,
+          "operations": 1039,
           "cargoKg": 0,
-          "passengers": 2396,
+          "passengers": 2401,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-06",
-          "operations": 940,
+          "operations": 941,
           "cargoKg": 0,
           "passengers": 2037,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-07",
-          "operations": 1014,
+          "operations": 1016,
           "cargoKg": 0,
-          "passengers": 2629,
+          "passengers": 2615,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-08",
           "cargoKg": 0,
-          "operations": 927,
-          "passengers": 3392,
+          "operations": 931,
+          "passengers": 3391,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "ODB",
@@ -3394,40 +3448,40 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-10",
-          "operations": 1133,
+          "operations": 1134,
           "cargoKg": 0,
-          "passengers": 4810,
+          "passengers": 4809,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-11",
-          "operations": 1262,
+          "operations": 1260,
           "cargoKg": 0,
           "passengers": 4729,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "ODB",
           "month": "2025-12",
-          "operations": 710,
+          "operations": 712,
           "cargoKg": 0,
           "passengers": 4034,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "ODB",
@@ -3516,6 +3570,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "ODB",
+          "month": "2026-09",
+          "operations": 1327,
+          "cargoKg": 0,
+          "passengers": 4203,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3785,23 +3850,23 @@
           "airport": "SVQ",
           "month": "2025-01",
           "cargoKg": 925774,
-          "passengers": 655693,
-          "operations": 5056,
+          "passengers": 655624,
+          "operations": 5057,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "SVQ",
           "month": "2025-02",
           "cargoKg": 816219,
           "passengers": 723695,
-          "operations": 5500,
+          "operations": 5501,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3812,18 +3877,18 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "SVQ",
           "month": "2025-04",
           "cargoKg": 1240964,
           "passengers": 861845,
-          "operations": 6468,
+          "operations": 6472,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3834,7 +3899,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3845,7 +3910,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3856,7 +3921,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3867,7 +3932,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3878,29 +3943,29 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "SVQ",
           "month": "2025-10",
           "cargoKg": 1278643,
-          "passengers": 902617,
+          "passengers": 902625,
           "operations": 6772,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "SVQ",
           "month": "2025-11",
           "cargoKg": 948717,
-          "passengers": 812569,
+          "passengers": 812612,
           "operations": 6150,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -3911,7 +3976,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "SVQ",
@@ -4000,6 +4065,17 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "cargoKg": 965949,
+          "passengers": 884976,
+          "operations": 6497,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4274,7 +4350,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4285,7 +4361,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4296,7 +4372,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4307,7 +4383,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4318,18 +4394,18 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true"
         },
         {
           "airport": "XRY",
           "month": "2025-06",
-          "operations": 4680,
+          "operations": 4679,
           "passengers": 96638,
           "cargoKg": 0,
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4340,7 +4416,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4351,7 +4427,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4362,7 +4438,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4373,7 +4449,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4384,7 +4460,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4395,7 +4471,7 @@
           "arrivals": null,
           "departures": null,
           "provider": "Aena",
-          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true"
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         },
         {
           "airport": "XRY",
@@ -4484,12 +4560,23 @@
           "departures": null,
           "provider": "Aena",
           "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "operations": 5199,
+          "passengers": 116140,
+          "cargoKg": 0,
+          "arrivals": null,
+          "departures": null,
+          "provider": "Aena",
+          "sourceUrl": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true"
         }
       ],
       "source": {
         "label": "Aena y Gibraltar Airport",
         "provider": "Aena y Gibraltar Airport",
-        "executedAt": "2026-10-12T16:48:49.601207+00:00",
+        "executedAt": "2026-10-27T13:32:18.890983+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-09-01"
@@ -4510,12 +4597,6 @@
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576869791837&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576869791875&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576869791897&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870695607&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576870944683&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871192776&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871388212&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871559540&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871816274&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817069&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817091&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817117&ssbinary=true",
@@ -4528,12 +4609,6 @@
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817271&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817309&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871817331&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576871962862&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872183356&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872417584&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872615854&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576872849099&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873056455&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873282385&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873491076&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576873761608&ssbinary=true",
@@ -4541,7 +4616,20 @@
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874341337&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874656833&ssbinary=true",
           "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874747210&ssbinary=true",
-          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true"
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576874982287&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161450&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161832&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161854&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161876&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161898&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875161920&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162062&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162073&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162095&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162117&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162139&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162226&ssbinary=true",
+          "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576875162248&ssbinary=true"
         ],
         "notes": [
           "La carga de Gibraltar incluye correo y mensajería: no es estrictamente equivalente a mercancías Aena.",
@@ -68913,7 +69001,7 @@
       "source": {
         "label": "Eurostat · países socios europeos",
         "provider": "Eurostat · países socios europeos",
-        "executedAt": "2026-10-12T16:48:49.601207+00:00",
+        "executedAt": "2026-10-27T13:32:18.890983+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -73332,7 +73420,7 @@
       "source": {
         "label": "Eurostat · nacional e internacional",
         "provider": "Eurostat · nacional e internacional",
-        "executedAt": "2026-10-12T16:48:49.601207+00:00",
+        "executedAt": "2026-10-27T13:32:18.890983+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-03-01"
@@ -80880,6 +80968,246 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
         },
         {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "ABERDEEN",
+          "passengers": 4544,
+          "scheduled": 4544,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "BELFAST INTERNATIONAL",
+          "passengers": 33777,
+          "scheduled": 33777,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "BIGGIN HILL",
+          "passengers": 0,
+          "scheduled": 0,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 47560,
+          "scheduled": 42849,
+          "charter": 4711,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "BOURNEMOUTH",
+          "passengers": 14170,
+          "scheduled": 14170,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 47939,
+          "scheduled": 46877,
+          "charter": 1062,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "CARDIFF WALES",
+          "passengers": 14223,
+          "scheduled": 10906,
+          "charter": 3317,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 32732,
+          "scheduled": 29461,
+          "charter": 3271,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "EDINBURGH",
+          "passengers": 25681,
+          "scheduled": 25681,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "EXETER",
+          "passengers": 4683,
+          "scheduled": 4683,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 150302,
+          "scheduled": 145508,
+          "charter": 4794,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "GLASGOW",
+          "passengers": 30975,
+          "scheduled": 27932,
+          "charter": 3043,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "HEATHROW",
+          "passengers": 22346,
+          "scheduled": 22346,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 36081,
+          "scheduled": 36081,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 41936,
+          "scheduled": 41936,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "LONDON CITY",
+          "passengers": 6894,
+          "scheduled": 6894,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "LUTON",
+          "passengers": 46936,
+          "scheduled": 46936,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 72765,
+          "scheduled": 66892,
+          "charter": 5873,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 31680,
+          "scheduled": 31680,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "NEWQUAY",
+          "passengers": 4493,
+          "scheduled": 4493,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "PRESTWICK",
+          "passengers": 10548,
+          "scheduled": 10548,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "SOUTHEND",
+          "passengers": 10712,
+          "scheduled": 10712,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 48430,
+          "scheduled": 48430,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-08",
+          "ukAirport": "TEESSIDE INTERNATIONAL AIRPORT",
+          "passengers": 3087,
+          "scheduled": 3087,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
           "airport": "BCN",
           "month": "2024-01",
           "ukAirport": "BIRMINGHAM",
@@ -86090,6 +86418,196 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
         },
         {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "BELFAST INTERNATIONAL",
+          "passengers": 5438,
+          "scheduled": 5438,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "BIGGIN HILL",
+          "passengers": 11,
+          "scheduled": 0,
+          "charter": 11,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 37020,
+          "scheduled": 36757,
+          "charter": 263,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 31185,
+          "scheduled": 31185,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 11949,
+          "scheduled": 11949,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "EDINBURGH",
+          "passengers": 32254,
+          "scheduled": 32254,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 127908,
+          "scheduled": 127488,
+          "charter": 420,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "GLASGOW",
+          "passengers": 5683,
+          "scheduled": 5683,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "HEATHROW",
+          "passengers": 92418,
+          "scheduled": 92418,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 5207,
+          "scheduled": 5207,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 14706,
+          "scheduled": 14706,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "LONDON CITY",
+          "passengers": 4095,
+          "scheduled": 4095,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "LUTON",
+          "passengers": 62831,
+          "scheduled": 62831,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 63502,
+          "scheduled": 63502,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 7328,
+          "scheduled": 7328,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "PRESTWICK",
+          "passengers": 5583,
+          "scheduled": 5583,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "SOUTHAMPTON",
+          "passengers": 2415,
+          "scheduled": 2415,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "SOUTHEND",
+          "passengers": 4186,
+          "scheduled": 4186,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 46904,
+          "scheduled": 46904,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
           "airport": "GIB",
           "month": "2024-01",
           "ukAirport": "BRISTOL",
@@ -87528,6 +88046,56 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 3008,
+          "scheduled": 3008,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 3036,
+          "scheduled": 3036,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 10107,
+          "scheduled": 10107,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-08",
+          "ukAirport": "HEATHROW",
+          "passengers": 18385,
+          "scheduled": 18385,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 8701,
+          "scheduled": 8701,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
           "airport": "GRX",
@@ -89438,6 +90006,96 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 4752,
+          "scheduled": 4752,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 4724,
+          "scheduled": 4724,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 6870,
+          "scheduled": 6870,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 2468,
+          "scheduled": 2468,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 2648,
+          "scheduled": 2648,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "LUTON",
+          "passengers": 2631,
+          "scheduled": 2631,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 9664,
+          "scheduled": 9664,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "SOUTHEND",
+          "passengers": 2957,
+          "scheduled": 2957,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 4498,
+          "scheduled": 4498,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
           "airport": "MAD",
@@ -92810,6 +93468,116 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
         },
         {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 9296,
+          "scheduled": 9296,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 12861,
+          "scheduled": 12861,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "EDINBURGH",
+          "passengers": 24431,
+          "scheduled": 23731,
+          "charter": 700,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 50325,
+          "scheduled": 50325,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "HEATHROW",
+          "passengers": 123787,
+          "scheduled": 123787,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 4582,
+          "scheduled": 4582,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "LONDON CITY",
+          "passengers": 2596,
+          "scheduled": 2596,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "LUTON",
+          "passengers": 20071,
+          "scheduled": 20071,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 22213,
+          "scheduled": 22213,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 0,
+          "scheduled": 0,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 42394,
+          "scheduled": 42394,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
           "airport": "SVQ",
           "month": "2024-01",
           "ukAirport": "BIRMINGHAM",
@@ -94830,6 +95598,106 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
         },
         {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 7794,
+          "scheduled": 7794,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "BOURNEMOUTH",
+          "passengers": 121,
+          "scheduled": 0,
+          "charter": 121,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "BRISTOL",
+          "passengers": 3090,
+          "scheduled": 3090,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "EDINBURGH",
+          "passengers": 4922,
+          "scheduled": 4757,
+          "charter": 165,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 31576,
+          "scheduled": 31576,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "HEATHROW",
+          "passengers": 10534,
+          "scheduled": 10534,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 2701,
+          "scheduled": 2701,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "LUTON",
+          "passengers": 8984,
+          "scheduled": 8984,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 6068,
+          "scheduled": 6068,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 12827,
+          "scheduled": 12827,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
           "airport": "XRY",
           "month": "2024-03",
           "ukAirport": "STANSTED",
@@ -95508,15 +96376,75 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "BELFAST INTERNATIONAL",
+          "passengers": 42,
+          "scheduled": 0,
+          "charter": 42,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 2968,
+          "scheduled": 2968,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "GATWICK",
+          "passengers": 1370,
+          "scheduled": 0,
+          "charter": 1370,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 1252,
+          "scheduled": 1252,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "MANCHESTER",
+          "passengers": 3098,
+          "scheduled": 3098,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-08",
+          "ukAirport": "STANSTED",
+          "passengers": 2824,
+          "scheduled": 2824,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         }
       ],
       "source": {
         "label": "UK Civil Aviation Authority · tabla 12.1",
         "provider": "UK Civil Aviation Authority · tabla 12.1",
-        "executedAt": "2026-10-12T16:48:49.601207+00:00",
+        "executedAt": "2026-10-27T13:32:18.890983+00:00",
         "coverage": {
           "startDate": "2024-01-01",
-          "endDate": "2026-07-01"
+          "endDate": "2026-08-01"
         },
         "files": [
           "https://www.caa.co.uk/Documents/Download/11899/dda6ab8f-a98e-4fe9-9eef-d68fecd22130/16413",
@@ -95549,7 +96477,8 @@
           "https://www.caa.co.uk/Documents/Download/26832/08bbd4e2-a71a-419d-804a-07be45481ef9/17704",
           "https://www.caa.co.uk/Documents/Download/26833/11a95c0b-983c-49fc-ba36-4599da419397/17752",
           "https://www.caa.co.uk/Documents/Download/26834/a4abec12-44d2-47fc-acd0-e4a9d246d7c4/17791",
-          "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830"
+          "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830",
+          "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         ],
         "notes": [
           "CAA tabla 12.1: pasajeros entre aeropuertos británicos y el aeropuerto seleccionado, ambos sentidos. No mide toda la red. No sumar con Aena/Gibraltar: son poblaciones solapadas."
